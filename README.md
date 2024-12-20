@@ -9,3 +9,5 @@ Retrieve the official template from the following link (direct link): https://me
 
 Obtain the custom template provided on this GitHub repository by clicking "Download Code."
 You can combine the two template.txt files by copying the content of one and pasting it at the end of the other file.
+
+In the DiskWriter software, click on "Option" and select the new template. You can now flash it onto your SD card.
